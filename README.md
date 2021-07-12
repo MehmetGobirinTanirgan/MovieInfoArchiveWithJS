@@ -3,4 +3,4 @@ JavaScript application that stores movie informations
 
 View:
 
-![View](gif/movie-archive.gif)
+![View](gifs/movie-archive.gif)
