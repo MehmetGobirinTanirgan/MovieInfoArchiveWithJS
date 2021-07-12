@@ -1,7 +1,8 @@
 class Movie {
-    constructor(title, director, url){
+    constructor(title, director, date, urlID){
         this.title = title;
         this.director = director;
-        this.url = url;
+        this.date = date;
+        this.urlID = urlID;
     };
 }
